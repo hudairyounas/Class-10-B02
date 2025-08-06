@@ -63,6 +63,12 @@ void main()
     //     printf("Number is zero 0");
     // }
 
+    // Chapter 3 Exercise no. 6
+    // Following is the eligibility criteria for admission in an IT University.
+    // At least 60% marks in Matric.
+    // At least 65% marks in Intermediate (Pre-Engineering or ICS).
+    // At least 65% marks in entrance test.
+
     float matric_marks_obtained = 60;
     float intermediate_ICS = 65;
     float entrance_test_marks = 65;
